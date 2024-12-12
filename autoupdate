@@ -1,7 +1,8 @@
 [
 {"p":"com.dejin.bengalpay.v1","d":"https://luckymoney888.github.io/files/v1_app_1.0.109_Release_2024-12-03.apk","n":"MPay.apk","v":109,"t":"NAGADAGENT"},
 {"p":"com.dejin.vietnampay.v3","d":"https://luckymoney888.github.io/files/v3_app_1.0.290_Release_2024-09-27.apk","n":"XFox.apk","v":290,"t":"ALL"},
-{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_app_1.0.297_Release_2024-12-11.apk","n":"PanPay.apk","v":29,"t":"ALL"},
+{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_app_1.0.297_Release_2024-12-11.apk","n":"PanPay.apk","v":297,"t":"Vietcombank"},
+{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_ATX_app_1.0.258_Release_2024-12-12.apk","n":"PanPay.apk","v":259,"t":"ALL"},
 {"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/v1_app_1.0.288_Release_2024-09-24.apk","n":"VPay.apk","v":288,"t":"ALL"},
 {"p":"com.dejin.tpay","d":"https://luckymoney888.github.io/files/tpay_app_1.0.405_Release_2024-09-19.apk","n":"TPay.apk","v":405,"t":"ALL"},
 {"p":"com.dejin.easypay","d":"https://luckymoney888.github.io/files/easypay_app_1.0.405_Release_2024-09-19.apk","n":"EasyPay.apk","v":405,"t":"ALL"},
