@@ -1,12 +1,12 @@
 [
 {"p":"com.dejin.bengalpay.v1","d":"https://luckymoney888.github.io/files/v1_app_1.0.113_Release_2025-02-07.apk","n":"MPay.apk","v":113,"t":"NAGADAGENT"},
 {"p":"com.dejin.vietnampay.v3","d":"https://luckymoney888.github.io/files/v3_app_1.0.290_Release_2024-09-27.apk","n":"XFox.apk","v":290,"t":"ALL"},
-{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_app_1.0.303_Release_2024-12-31.apk","n":"PanPay.apk","v":303,"t":"BIDV"},
-{"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_app_1.0.306_Release_2025-02-09.apk","n":"VPay.apk","v":306,"t":"Vietcombank,VIB"},
+{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_app_1.0.307_Release_2025-02-17.apk","n":"PanPay.apk","v":307,"t":"ALL"},
+{"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_app_1.0.307_Release_2025-02-17.apk","n":"VPay.apk","v":306,"t":"ALL"},
 {"p":"com.dejin.tpay","d":"https://luckymoney888.github.io/files/tpay_app_1.0.407_Release_2024-12-13.apk","n":"TPay.apk","v":405,"t":"ALL"},
 {"p":"com.dejin.easypay","d":"https://luckymoney888.github.io/files/easypay_app_1.0.407_Release_2024-12-13.apk","n":"EasyPay.apk","v":405,"t":"ALL"},
-{"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_ATX_app_1.0.263_Release_2025-01-26.apk","n":"VPay.apk","v":263,"t":"ALL"},
-{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_ATX_app_1.0.262_Release_2024-12-20.apk","n":"PanPay.apk","v":262,"t":"Techcombank"},
+{"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_ATX_app_1.0.264_Release_2025-02-17.apk","n":"VPay.apk","v":264,"t":"ALL"},
+{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_ATX_app_1.0.264_Release_2025-02-17.apk","n":"PanPay.apk","v":264,"t":"ALL"},
 {"p":"com.dejin.vietnampay.v4","d":"https://luckymoney888.github.io/files/VNPay_ATX_app_1.0.262_Release_2024-12-20.apk","n":"PanPay.apk","v":262,"t":"Techcombank"},
 {"p":"com.dejin.lsposed","d":"https://luckymoney888.github.io/files/tailand_xposed_scanner_Release_1.227.apk","n":"LSposed.apk","v":227,"t":"Vietcombank","i":false}
 ]
