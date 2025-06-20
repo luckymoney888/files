@@ -5,8 +5,7 @@
 {"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_app_1.0.310_Release_2025-03-08.apk","n":"VPay.apk","v":310,"t":"VIB"},
 {"p":"com.dejin.tpay","d":"https://luckymoney888.github.io/files/tpay_app_1.0.411_Release_2025-03-28.apk","n":"TPay.apk","v":411,"t":"ALL"},
 {"p":"com.dejin.easypay","d":"https://luckymoney888.github.io/files/easypay_app_1.0.411_Release_2025-03-28.apk","n":"EasyPay.apk","v":411,"t":"ALL"},
-{"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_ATX_app_1.0.320_Release_2025-04-04.apk","n":"VPay.apk","v":320,"t":"VIB"},
-{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_ATX_app_1.0.329_Release_2025-06-10.apk","n":"PanPay.apk","v":329,"t":"SACOMBANK"},
-{"p":"com.dejin.vietnampay.v4","d":"https://luckymoney888.github.io/files/VNPay_ATX_app_1.0.262_Release_2024-12-20.apk","n":"PanPay.apk","v":262,"t":"Techcombank"},
+{"p":"com.dejin.vietnampay.v1","d":"https://luckymoney888.github.io/files/VPay_ATX_app_1.0.330_Release_2025-06-20.apk","n":"VPay.apk","v":330,"t":"SACOMBANK"},
+{"p":"com.dejin.vietnampay.v2","d":"https://luckymoney888.github.io/files/PanPay_ATX_app_1.0.330_Release_2025-06-20.apk","n":"PanPay.apk","v":330,"t":"SACOMBANK"},
 {"p":"com.dejin.lsposed","d":"https://luckymoney888.github.io/files/tailand_xposed_scanner_Release_1.227.apk","n":"LSposed.apk","v":227,"t":"Vietcombank","i":false}
 ]
